@@ -29,4 +29,5 @@
 <h4>My Blog</h4>
 <a href="https://velog.io/@notnavi">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </a>
